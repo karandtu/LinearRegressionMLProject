@@ -1,0 +1,1 @@
+A Machine Learning Hands-on Python Implementation on understanding Linear Regression and also applying some variability factors such as Noise_Levels and testing results on new test data to evaluate predictions and plotting results thereby.
